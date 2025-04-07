@@ -15,8 +15,9 @@ As a seasoned game developer with over a decade of industry experience, I have c
 
 ## Professional Experience
 
-| Period     | Company           | Notable Projects                                    |
-|------------|-------------------|-----------------------------------------------------|
+| Period      | Company           | Notable Projects                                    |
+|-------------|-------------------|-----------------------------------------------------|
+| 2025-now    | Skinny Bandit     | Mechjestic                                          |
 | 2020-2024   | Spillkaminen      | Open Netcode, Rock Paper Scissors Royale            |
 | 2022-2024   | Raidho Games      | Programmer and Designer on Astride                  |
 | 2022        | Black Book Games  | Prototyping and High Concept Design                 |
@@ -41,6 +42,21 @@ My extensive experience spans from indie game development to working with establ
 <hr>
 
 ## Notable Projects
+
+
+![Mechjestic](/assets/images/mechjestic.png)
+<div style="text-align: center">
+  <a href="https://store.steampowered.com/app/2291210/Mechjestic/" target="_blank">Steam</a>
+</div>
+```
+Name: Mechjestic
+Status: Under Development
+Company: Skinny Bandit
+When: 2025-now
+Role: Programmer
+```
+Roguelike Deckbuilder RPG where you endlessly explore randomly generated maps to find new cards & build the Deck to craft your Mech in combat.
+<hr> 
 
 ![Among the Sleep](/assets/images/amongthesleep.png)
 <div style="text-align: center">
