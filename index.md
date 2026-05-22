@@ -36,11 +36,11 @@ I love being outside.</p>
 
 ## Core Competencies
 
-<p>I know everything.<br>
-I know about everything.<br>
-I know where to find out about everything.<br>
-I know how to learn everything.<br>
-I know nothing.
+<p>Learning is easy.<br>
+I know so much.<br>
+I know nothing.<br>
+I know some things.<br>
+I know many things.<br>
 </p>
 
 ## Notable Projects
