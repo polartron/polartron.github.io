@@ -1,17 +1,33 @@
 ---
 layout: default
 ---
-As a seasoned game developer with over a decade of industry experience, I have contributed to numerous projects across various platforms, demonstrating a diverse skill set and a proven track record. My career highlights include:
 
-## Professional Achievements
+I'm a Norwegian programmer, mid 30s, with 21 years of game development experience.
 
-- **BAFTA Award Winner**: Received recognition for my debut released game
-- **Technical Expertise**: Proficient in code performance optimization, architecture design, and scalable code development
-- **Networking Specialist**: Developed high-performance rollback netcode for multiplayer games
-- **Educational Contributions**: Instructed two semesters of Unity with C# and conducted multiple workshops on various game development topics such as project scoping, prototyping and data oriented programming
-- **Game Design Focus**: Skilled in creating engaging core game mechanics to drive player retention and crafting comprehensive high-concept documents
-- **Quality Assurance**: Experienced in conducting playtests and QA testing through livestream sessions
-- **Multi-Platform Development**: Successfully ported games to consoles and mobile devices
+I've worked professionally since 2013.
+I get things done through chaos within boundaries. 
+I keep my sessions to 4 hours from 10:00 to 14:00.
+I work Monday, Thursday, Friday.
+
+I want to spend more hours with my dog and my girlfriend.
+I work from home and want to become a farmer.
+I love our dog.
+I think she needs a sister.
+
+I have a lot of experience in how players think and behave. 
+I can think forwards and backwards.
+I treat design mechanics like abstract puzzle pieces.
+I set boundaries for my creativity.
+
+I can do anything. 
+I can do anything. 
+I can do anything! 
+I can do anything!! 
+Hey Trond can we...
+Yes!
+I can and will do anything for you
+in order to be able to do 
+other things...
 
 ## Professional Experience
 
@@ -27,17 +43,6 @@ As a seasoned game developer with over a decade of industry experience, I have c
 | 2013-2015   | DOS Studios       | Size DOES Matter, Cube Cube                         |
 
 ## Core Competencies
-
-- Game engine proficiency (Unity, Unity DOTS, Netcode for Entities)
-- Programming languages (C#, C++, Python)
-- Multiplayer networking
-- Cross-platform development
-- Game design and prototyping
-- Performance optimization
-- Data oriented programming
-- Unit Testing
-
-My extensive experience spans from indie game development to working with established studios, showcasing adaptability and a comprehensive understanding of the game development lifecycle. I am committed to creating innovative and engaging gaming experiences while continuously expanding my skill set to meet the evolving demands of the industry.
 
 <hr>
 
