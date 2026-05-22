@@ -2,32 +2,24 @@
 layout: default
 ---
 
-I'm a Norwegian programmer, mid 30s, with 21 years of game development experience.
+<p>I'm a Norwegian game developer with 21 years of experience.
+</p>
 
-I've worked professionally since 2013.
-I get things done through chaos within boundaries. 
-I keep my sessions to 4 hours from 10:00 to 14:00.
-I work Monday, Thursday, Friday.
+<p>I've worked professionally since 2013.<br>
+I get things done through chaos within boundaries.<br>
+I keep my sessions to 4 hours from 10:00 to 14:00.<br>
+I work Monday, Thursday, Friday.</p>
 
-I want to spend more hours with my dog and my girlfriend.
-I work from home and want to become a farmer.
-I love our dog.
-I think she needs a sister.
+<p>I have a lot of experience in how players learn.<br>
+I design systems.<br>
+I design progression.<br>
+I design tutorials.<br>
+I set boundaries for my creativity.</p>
 
-I have a lot of experience in how players think and behave. 
-I can think forwards and backwards.
-I treat design mechanics like abstract puzzle pieces.
-I set boundaries for my creativity.
-
-I can do anything. 
-I can do anything. 
-I can do anything! 
-I can do anything!! 
-Hey Trond can we...
-Yes!
-I can and will do anything for you
-in order to be able to do 
-other things...
+<p>I want to spend more time with my dog and my girlfriend.<br>
+I work from home and come from a farm.<br>
+I love our dog.<br>
+I love being outside.</p>
 
 ## Professional Experience
 
@@ -44,10 +36,14 @@ other things...
 
 ## Core Competencies
 
-<hr>
+<p>I know everything.<br>
+I know about everything.<br>
+I know where to find out about everything.<br>
+I know how to learn everything.<br>
+I know nothing.
+</p>
 
 ## Notable Projects
-
 
 ![Mechjestic](/assets/images/mechjestic.png)
 <div style="text-align: center">
