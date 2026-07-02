@@ -1,25 +1,17 @@
 ---
 layout: default
 ---
+As a seasoned game developer with over a decade of industry experience, I have contributed to numerous projects across various platforms, demonstrating a diverse skill set and a proven track record. My career highlights include:
 
-<p>I'm a Norwegian game developer with 21 years of experience.
-</p>
+## Professional Achievements
 
-<p>I've worked professionally since 2013.<br>
-I get things done through chaos within boundaries.<br>
-I keep my sessions to 4 hours from 10:00 to 14:00.<br>
-I work Monday, Thursday, Friday.</p>
-
-<p>I have a lot of experience in how players learn.<br>
-I design systems.<br>
-I design progression.<br>
-I design tutorials.<br>
-I set boundaries for my creativity.</p>
-
-<p>I want to spend more time with my dog and my girlfriend.<br>
-I work from home and come from a farm.<br>
-I love our dog.<br>
-I love being outside.</p>
+- **BAFTA Award Winner**: Received recognition for my debut released game
+- **Technical Expertise**: Proficient in code performance optimization, architecture design, and scalable code development
+- **Networking Specialist**: Developed high-performance rollback netcode for multiplayer games
+- **Educational Contributions**: Instructed two semesters of Unity with C# and conducted multiple workshops on various game development topics such as project scoping, prototyping and data oriented programming
+- **Game Design Focus**: Skilled in creating engaging core game mechanics to drive player retention and crafting comprehensive high-concept documents
+- **Quality Assurance**: Experienced in conducting playtests and QA testing through livestream sessions
+- **Multi-Platform Development**: Successfully ported games to consoles and mobile devices
 
 ## Professional Experience
 
@@ -36,14 +28,21 @@ I love being outside.</p>
 
 ## Core Competencies
 
-<p>Learning is easy.<br>
-I know so much.<br>
-I know nothing.<br>
-I know some things.<br>
-I know many things.<br>
-</p>
+- Game engine proficiency (Unity, Unity DOTS, Netcode for Entities)
+- Programming languages (C#, C++, Python)
+- Multiplayer networking
+- Cross-platform development
+- Game design and prototyping
+- Performance optimization
+- Data oriented programming
+- Unit Testing
+
+My extensive experience spans from indie game development to working with established studios, showcasing adaptability and a comprehensive understanding of the game development lifecycle. I am committed to creating innovative and engaging gaming experiences while continuously expanding my skill set to meet the evolving demands of the industry.
+
+<hr>
 
 ## Notable Projects
+
 
 ![Mechjestic](/assets/images/mechjestic.png)
 <div style="text-align: center">
